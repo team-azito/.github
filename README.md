@@ -5,9 +5,9 @@
 - Spring Boot
 - Spring Security
 - Spring Data Jpa
+- Lombok
 - H2, MySQL
 - Spring Rest Docs
-- Lombok
 - Junit 5, AssertJ, RestAssured
 - Docker, Github Actions
 
