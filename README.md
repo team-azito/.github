@@ -25,6 +25,8 @@
 ## ERD
 <image src="https://github.com/team-azito/.github/assets/116694226/29cb3d24-7647-45f8-82f9-8bd62f08be10" height="500">
 
+<image src="https://github.com/team-azito/.github/assets/116694226/a0d3ac6e-fe71-4a40-b20c-a0b406c2de23" height="500" width="700">
+
 ## API 문서
 
 [API 문서의 링크](http://43.200.141.226/docs/index.html)는 다음과 같습니다.
